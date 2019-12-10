@@ -1,0 +1,5 @@
+../../resources/models/Rabbit/Rabbit.obj
+../../resources/models/Cyborg/Cyborg.obj
+../../resources/models/Moon/Moon.obj
+../../resources/models/Helmet/Helmet.obj
+../../resources/models/Desert/desert1.obj
